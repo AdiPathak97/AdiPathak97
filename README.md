@@ -7,7 +7,7 @@ I am an ever-curious software engineer, looking to expand my knowledge and exper
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a software consultant, helping build awesome web applications for small and medium scale businesses.
-- 🌐 I am a FOSS enthusiast! Freen and Open Source Software appeals to my optimistic side where we can collectively reap the benefits of our labour.
+- 🌐 I am a FOSS enthusiast! Free and Open Source Software appeals to my optimistic side where we can collectively reap the benefits of our labour.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=angular,react,vite,nodejs,mongodb,git,js,html,css,py,php,docker,linux)](https://skillicons.dev)
