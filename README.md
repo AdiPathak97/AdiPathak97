@@ -23,6 +23,13 @@ I am an ever-curious software engineer, looking to expand my knowledge and exper
 
 - Mail me on apathak1997@gmail.com
 
+## Useful Resources
+
+- Resources which helped me in my journey:
+    1. [FreeCodeCamp](https://www.freecodecamp.org/)
+    2. [Roadmap.sh](https://roadmap.sh/)
+    3. [javascript.info](https://javascript.info/)
+
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
