@@ -10,7 +10,7 @@ I am an ever-curious software engineer, looking to expand my knowledge and exper
 - 🌐 I am a FOSS enthusiast! Free and Open Source Software appeals to my optimistic side where we can collectively reap the benefits of our labour.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,react,vite,nodejs,mongodb,git,js,html,css,py,php,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,tailwind,angular,ts,git,html,css,js,py,php,linux,docker&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
